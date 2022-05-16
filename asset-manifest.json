@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ling-En/pexels-search.git/static/css/main.67bb22bb.css",
+    "main.js": "/Ling-En/pexels-search.git/static/js/main.3d881c89.js",
+    "index.html": "/Ling-En/pexels-search.git/index.html",
+    "main.67bb22bb.css.map": "/Ling-En/pexels-search.git/static/css/main.67bb22bb.css.map",
+    "main.3d881c89.js.map": "/Ling-En/pexels-search.git/static/js/main.3d881c89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67bb22bb.css",
+    "static/js/main.3d881c89.js"
+  ]
+}
