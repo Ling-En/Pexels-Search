@@ -11,6 +11,7 @@ const Search = ({search, setInput}) => {
     return (
         <section className="search">
             <div className="container">
+                <h4>PEXELS SEARCH</h4>
                 <div className="input-group">
                     <input onChange={handleInput} type="text" className="form-control" placeholder={`搜尋免費${pathName}`} />
                     <span className="input-group-text">
